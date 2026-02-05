@@ -153,7 +153,7 @@ export default function Header() {
                 SURVIVE AT ALL COSTS
               </h1>
               <h3 className="font-bebas text-lg md:text-xl lg:text-2xl tracking-widest uppercase">
-                Experience new social battle royale game
+                Experience New Social Battle Royale Game
               </h3>
               
               {/* Buy button */}

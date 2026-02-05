@@ -63,7 +63,7 @@ export default function Footer() {
 
           {/* Copyright information */}
           <p className="text-white text-sm opacity-50">
-            © 2018 Outpost Games, Inc. All Rights Reserved
+            © 2026 Outpost Games, Inc. All Rights Reserved
           </p>
         </div>
       </div>
